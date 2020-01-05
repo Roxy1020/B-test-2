@@ -1,2 +1,2 @@
 # B-test-2
-master branch第一次修改
+这是branch 2 的readme文件修改
